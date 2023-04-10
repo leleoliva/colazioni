@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #f7f2ae;
+}
+
+img{
+    max-width: 20%;
+}
+
+
+header div.Salata h2 {
+    max-width: 1920px;
+    background-color: #5cb130;
+    display: inline;
+    
+  width: cover;
+  height: 100px;
+}
+
+main {
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+header div.Dolce h2 {
+    max-width: 1920px;
+    background-color: #5cb130;
+    display: inline;
+  
+  width: cover;
+  height: 100px;
+}
+
+
+header div.titolosfondo h1{
+    max-width: 1920px;
+  color: #f7f2ae;
+  background-color: #f7f2ae;
+}
+
+
+
+header h1{
+    max-width: 1920px;
+    background-color: #5cb130;
+    text-align:center;  
+}
+
+
+
+footer{
+    max-width: 1920px;
+    background-color: #5cb130; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+    text-align: center;
+    }
